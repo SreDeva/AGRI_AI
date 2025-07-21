@@ -1,10 +1,15 @@
 import logging
+import os
+from dotenv import load_dotenv
 
-SECRET_KEY = "09027e5d4c40783326cef1ee95c179c7dcaa4c92e90844c1c1958b027546d240"
-REFRESH_SECRET_KEY = "b92bb176d0c75d87efce31a3f4c472b3648d6e63d4b6a349802f712ba4422489"
+# Load environment variables
+load_dotenv()
+
+SECRET_KEY = os.getenv("SECRET_KEY", "your-secret-key-change-this-in-production")
+REFRESH_SECRET_KEY = os.getenv("REFRESH_SECRET_KEY", "your-refresh-secret-key-change-this-in-production")
 ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_MINUTES = 60*24*7 # 1 day
-REFRESH_TOKEN_EXPIRE_DAYS = 60*24*7 # 7 days
+ACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv("ACCESS_TOKEN_EXPIRE_MINUTES", 60*24*7)) # 1 week default
+REFRESH_TOKEN_EXPIRE_DAYS = int(os.getenv("REFRESH_TOKEN_EXPIRE_DAYS", 60*24*7)) # 7 days default
 
 
 # Set up basic logging

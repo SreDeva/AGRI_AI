@@ -3,7 +3,9 @@ import { View, Text, StyleSheet, ActivityIndicator, TouchableOpacity } from 'rea
 import * as Speech from 'expo-speech';
 import { authService } from '../services/authService';
 
-const OPENWEATHER_API_KEY = 'f27bb27155756a143de2cf7edfa95e0f'; // Your API key here
+// Note: In production, this should be moved to environment variables
+// For now, using a placeholder - replace with your actual API key
+const OPENWEATHER_API_KEY = process.env.EXPO_PUBLIC_OPENWEATHER_API_KEY || 'your-openweather-api-key';
 
 const FALLBACK_CITY = 'Chennai';
 

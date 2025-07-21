@@ -158,7 +158,12 @@ import google.generativeai as genai
 from google.generativeai import GenerativeModel
 
 # Configure Gemini
-genai.configure(api_key="AIzaSyCE4kX0GKDxEgQHxYBG_AiFuHBDb1pDrx0")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+if not GEMINI_API_KEY:
+    logger.error("GEMINI_API_KEY not found in environment variables")
+    raise ValueError("GEMINI_API_KEY is required")
+
+genai.configure(api_key=GEMINI_API_KEY)
 gemini_model = GenerativeModel("gemini-2.5-flash")
 
 async def query_gemini(input: str) -> str:
@@ -236,7 +241,7 @@ async def transcribe_audio_from_url(audio_url: str, language: str = "auto", auth
     
     api_url = "https://api.sarvam.ai/speech-to-text"
     headers = {
-        "api-subscription-key": "sk_saeeog0v_lOjJPExQHFTY83DR5FbvqEgf"
+        "api-subscription-key": SARVAM_API_KEY
     }
 
     with tempfile.TemporaryDirectory() as tmpdir:

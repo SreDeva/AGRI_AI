@@ -19,13 +19,14 @@ interface ChatMessage {
 }
 
 // --- Constants for Sarvam API ---
-const SARVAM_API_KEY = 'sk_saeeog0v_lOjJPExQHFTY83DR5FbvqEgf'; // Your provided API key
+// ⚠️ SECURITY WARNING: These should be moved to environment variables in production
+const SARVAM_API_KEY = process.env.EXPO_PUBLIC_SARVAM_API_KEY || 'your-sarvam-api-key';
 const SARVAM_STT_URL = 'https://api.sarvam.ai/speech-to-text';
 const SARVAM_TTS_URL = 'https://api.sarvam.ai/text-to-speech';
 // ----------------------------------
 
-// Ensure this points to your backend server's IP address, not localhost, when testing on a real device.
-const API_BASE_URL = 'http://localhost:8000';
+// Use environment variable for API base URL
+const API_BASE_URL = process.env.EXPO_PUBLIC_API_BASE_URL || 'http://localhost:8000';
 
 export default function AskQuestion() {
   const [image, setImage] = useState<string | null>(null);

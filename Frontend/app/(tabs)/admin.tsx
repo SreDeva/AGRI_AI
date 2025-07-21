@@ -27,8 +27,8 @@ interface Lease {
   leaseRate: number;
 }
 
-const API_BASE_URL = 'http://localhost:8000'; // FastAPI backend
-const LEASE_API_URL = 'http://localhost:8081'; // Node.js lease service
+const API_BASE_URL = process.env.EXPO_PUBLIC_API_BASE_URL || 'http://localhost:8000'; // FastAPI backend
+const LEASE_API_URL = process.env.EXPO_PUBLIC_LEASE_API_URL || 'http://localhost:8081'; // Node.js lease service
 
 export default function AdminPage() {
   const [name, setName] = useState('');

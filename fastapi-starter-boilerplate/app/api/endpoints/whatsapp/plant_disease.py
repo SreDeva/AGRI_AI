@@ -14,7 +14,12 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Configure Gemini
-genai.configure(api_key="AIzaSyCE4kX0GKDxEgQHxYBG_AiFuHBDb1pDrx0")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+if not GEMINI_API_KEY:
+    logger.error("GEMINI_API_KEY not found in environment variables")
+    raise ValueError("GEMINI_API_KEY is required")
+
+genai.configure(api_key=GEMINI_API_KEY)
 gemini_vision_model = GenerativeModel("gemini-2.0-flash-exp")
 
 async def analyze_plant_image(image_url: str, auth=None) -> str:

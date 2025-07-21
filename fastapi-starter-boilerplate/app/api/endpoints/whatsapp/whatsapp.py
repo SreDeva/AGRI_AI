@@ -30,9 +30,9 @@ import os
 load_dotenv()
 
 # Read environment variables
-ACCOUNT_SID = os.getenv("ACCOUNT_SID")
-AUTH_TOKEN = os.getenv("AUTH_TOKEN")
-TWILIO_NUMBER = os.getenv("TWILIO_NUMBER")
+ACCOUNT_SID = os.getenv("TWILIO_ACCOUNT_SID")
+AUTH_TOKEN = os.getenv("TWILIO_AUTH_TOKEN")
+TWILIO_NUMBER = os.getenv("TWILIO_PHONE_NUMBER")
 
 # Create the router
 whatsapp_module = APIRouter()

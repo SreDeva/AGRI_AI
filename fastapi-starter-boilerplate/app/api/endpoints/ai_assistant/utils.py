@@ -148,7 +148,12 @@ import google.generativeai as genai
 from google.generativeai import GenerativeModel
 
 # Configure Gemini
-genai.configure(api_key="AIzaSyCE4kX0GKDxEgQHxYBG_AiFuHBDb1pDrx0")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+if not GEMINI_API_KEY:
+    logger.error("GEMINI_API_KEY not found in environment variables")
+    raise ValueError("GEMINI_API_KEY is required")
+
+genai.configure(api_key=GEMINI_API_KEY)
 gemini_model = GenerativeModel("gemini-2.5-flash")
 
 async def query_gemini(prompt: str) -> str:
@@ -161,15 +166,17 @@ async def query_gemini(prompt: str) -> str:
         return "I'm having trouble processing your request right now. Please try again."
 
 
-# Replace this with your actual subscription key
-API_KEY = "sk_saeeog0v_lOjJPExQHFTY83DR5FbvqEgf"
+# Use Sarvam API key from environment
+if not SARVAM_API_KEY:
+    logger.error("SARVAM_API_KEY not found in environment variables")
+    raise ValueError("SARVAM_API_KEY is required")
 
 # ---------- Speech To Text ----------
 async def speech_to_text(file_path):
     url = "https://api.sarvam.ai/speech-to-text"
     
     headers = {
-        "api-subscription-key": API_KEY
+        "api-subscription-key": SARVAM_API_KEY
     }
     
     # Add language parameter to help with recognition
@@ -203,7 +210,7 @@ async def text_to_speech(text, target_language_code , output_path):
     url = "https://api.sarvam.ai/text-to-speech"
 
     headers = {
-        "api-subscription-key": API_KEY,
+        "api-subscription-key": SARVAM_API_KEY,
         "Content-Type": "application/json"
     }
 
