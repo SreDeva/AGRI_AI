@@ -1,0 +1,92 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+Plant_Disease_Dataset/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database
+sqlite.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+# Large files and model/data files
+plant_disease_index.faiss
+plant_disease_image.faiss
+backend/app/assets/fasttext/lid.176.bin
+backend/app/assets/indictrans2/m2m100/models--facebook--m2m100_418M--*
+backend/app/assets/indictrans2/models--ai4bharat--indictrans2-en-indic-1B--*
+backend/app/assets/whisper/base.pt
+frontend/android/app/build/
+frontend/node_modules/
+.venv/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node.js (for Frontend)
+Frontend/node_modules/
+Frontend/.expo/
+Frontend/dist/
+Frontend/.next/
+Frontend/out/
+Frontend/build/
+
+# Generated files
+fastapi-starter-boilerplate/generated_audio/
+fastapi-starter-boilerplate/static/audio/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+

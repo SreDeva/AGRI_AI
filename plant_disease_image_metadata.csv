@@ -1,0 +1,449 @@
+image_path,class_name,crop,condition,is_healthy
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Apple_scab\00075aa8-d81a-4184-8541-b692b78d398a___FREC_Scab 3335.JPG,Apple - Apple scab,Apple,Apple scab,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Apple_scab\01a66316-0e98-4d3b-a56f-d78752cd043f___FREC_Scab 3003.JPG,Apple - Apple scab,Apple,Apple scab,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Apple_scab\01a66316-0e98-4d3b-a56f-d78752cd043f___FREC_Scab 3003_270deg.JPG,Apple - Apple scab,Apple,Apple scab,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Apple_scab\01a66316-0e98-4d3b-a56f-d78752cd043f___FREC_Scab 3003_90deg.JPG,Apple - Apple scab,Apple,Apple scab,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Apple_scab\01a66316-0e98-4d3b-a56f-d78752cd043f___FREC_Scab 3003_new30degFlipLR.JPG,Apple - Apple scab,Apple,Apple scab,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Apple_scab\01f3deaa-6143-4b6c-9c22-620a46d8be04___FREC_Scab 3112.JPG,Apple - Apple scab,Apple,Apple scab,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Apple_scab\01f3deaa-6143-4b6c-9c22-620a46d8be04___FREC_Scab 3112_90deg.JPG,Apple - Apple scab,Apple,Apple scab,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Apple_scab\01f3deaa-6143-4b6c-9c22-620a46d8be04___FREC_Scab 3112_new30degFlipLR.JPG,Apple - Apple scab,Apple,Apple scab,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Black_rot\0090d05d-d797-4c99-abd4-3b9cb323a5fd___JR_FrgE.S 8727.JPG,Apple - Black rot,Apple,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Black_rot\0090d05d-d797-4c99-abd4-3b9cb323a5fd___JR_FrgE.S 8727_270deg.JPG,Apple - Black rot,Apple,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Black_rot\0090d05d-d797-4c99-abd4-3b9cb323a5fd___JR_FrgE.S 8727_90deg.JPG,Apple - Black rot,Apple,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Black_rot\0090d05d-d797-4c99-abd4-3b9cb323a5fd___JR_FrgE.S 8727_new30degFlipLR.JPG,Apple - Black rot,Apple,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Black_rot\00e909aa-e3ae-4558-9961-336bb0f35db3___JR_FrgE.S 8593.JPG,Apple - Black rot,Apple,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Black_rot\00e909aa-e3ae-4558-9961-336bb0f35db3___JR_FrgE.S 8593_270deg.JPG,Apple - Black rot,Apple,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Black_rot\00e909aa-e3ae-4558-9961-336bb0f35db3___JR_FrgE.S 8593_90deg.JPG,Apple - Black rot,Apple,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Black_rot\00e909aa-e3ae-4558-9961-336bb0f35db3___JR_FrgE.S 8593_new30degFlipLR.JPG,Apple - Black rot,Apple,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Cedar_apple_rust\025b2b9a-0ec4-4132-96ac-7f2832d0db4a___FREC_C.Rust 3655.JPG,Apple - Cedar apple rust,Apple,Cedar apple rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Cedar_apple_rust\025b2b9a-0ec4-4132-96ac-7f2832d0db4a___FREC_C.Rust 3655_180deg.JPG,Apple - Cedar apple rust,Apple,Cedar apple rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Cedar_apple_rust\025b2b9a-0ec4-4132-96ac-7f2832d0db4a___FREC_C.Rust 3655_270deg.JPG,Apple - Cedar apple rust,Apple,Cedar apple rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Cedar_apple_rust\025b2b9a-0ec4-4132-96ac-7f2832d0db4a___FREC_C.Rust 3655_90deg.JPG,Apple - Cedar apple rust,Apple,Cedar apple rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Cedar_apple_rust\025b2b9a-0ec4-4132-96ac-7f2832d0db4a___FREC_C.Rust 3655_new30degFlipLR.JPG,Apple - Cedar apple rust,Apple,Cedar apple rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Cedar_apple_rust\025b2b9a-0ec4-4132-96ac-7f2832d0db4a___FREC_C.Rust 3655_new30degFlipTB.JPG,Apple - Cedar apple rust,Apple,Cedar apple rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Cedar_apple_rust\0321e067-d13b-47d0-b3a6-76ba6f357d02___FREC_C.Rust 3667.JPG,Apple - Cedar apple rust,Apple,Cedar apple rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___Cedar_apple_rust\0321e067-d13b-47d0-b3a6-76ba6f357d02___FREC_C.Rust 3667_180deg.JPG,Apple - Cedar apple rust,Apple,Cedar apple rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___healthy\0055dd26-23a7-4415-ac61-e0b44ebfaf80___RS_HL 5672.JPG,Apple - healthy,Apple,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___healthy\00907d8b-6ae6-4306-bfd7-d54471981a86___RS_HL 5709.JPG,Apple - healthy,Apple,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___healthy\00907d8b-6ae6-4306-bfd7-d54471981a86___RS_HL 5709_flipTB.JPG,Apple - healthy,Apple,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___healthy\0098dbd9-286a-4d6a-bf4b-5459d66f88c0___RS_HL 5776.JPG,Apple - healthy,Apple,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___healthy\00a6039c-e425-4f7d-81b1-d6b0e668517e___RS_HL 7669.JPG,Apple - healthy,Apple,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___healthy\00fca0da-2db3-481b-b98a-9b67bb7b105c___RS_HL 7708.JPG,Apple - healthy,Apple,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___healthy\010125c0-e6f2-4f3d-b469-dd98ffecbb01___RS_HL 7948.JPG,Apple - healthy,Apple,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Apple___healthy\010125c0-e6f2-4f3d-b469-dd98ffecbb01___RS_HL 7948_flipTB.JPG,Apple - healthy,Apple,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Bacterial leaf blight\DSC_0365.JPG,Rice - Bacterial leaf blight,Rice,Bacterial leaf blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Bacterial leaf blight\DSC_0366.jpg,Rice - Bacterial leaf blight,Rice,Bacterial leaf blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Bacterial leaf blight\DSC_0367.JPG,Rice - Bacterial leaf blight,Rice,Bacterial leaf blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Bacterial leaf blight\DSC_0370.jpg,Rice - Bacterial leaf blight,Rice,Bacterial leaf blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Bacterial leaf blight\DSC_0372.JPG,Rice - Bacterial leaf blight,Rice,Bacterial leaf blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Bacterial leaf blight\DSC_0373.JPG,Rice - Bacterial leaf blight,Rice,Bacterial leaf blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Bacterial leaf blight\DSC_0374.JPG,Rice - Bacterial leaf blight,Rice,Bacterial leaf blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Bacterial leaf blight\DSC_0375.JPG,Rice - Bacterial leaf blight,Rice,Bacterial leaf blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Banana_POTASSIUM_DEFICIENCY\POTASSIUM_0001_1.jpg,Banana - POTASSIUM DEFICIENCY,Banana,POTASSIUM DEFICIENCY,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Banana_POTASSIUM_DEFICIENCY\POTASSIUM_0001_10.jpg,Banana - POTASSIUM DEFICIENCY,Banana,POTASSIUM DEFICIENCY,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Banana_POTASSIUM_DEFICIENCY\POTASSIUM_0001_100.jpg,Banana - POTASSIUM DEFICIENCY,Banana,POTASSIUM DEFICIENCY,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Banana_POTASSIUM_DEFICIENCY\POTASSIUM_0001_101.jpg,Banana - POTASSIUM DEFICIENCY,Banana,POTASSIUM DEFICIENCY,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Banana_POTASSIUM_DEFICIENCY\POTASSIUM_0001_102.jpg,Banana - POTASSIUM DEFICIENCY,Banana,POTASSIUM DEFICIENCY,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Banana_POTASSIUM_DEFICIENCY\POTASSIUM_0001_103.jpg,Banana - POTASSIUM DEFICIENCY,Banana,POTASSIUM DEFICIENCY,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Banana_POTASSIUM_DEFICIENCY\POTASSIUM_0001_104.jpg,Banana - POTASSIUM DEFICIENCY,Banana,POTASSIUM DEFICIENCY,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Banana_POTASSIUM_DEFICIENCY\POTASSIUM_0001_105.jpg,Banana - POTASSIUM DEFICIENCY,Banana,POTASSIUM DEFICIENCY,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Blueberry___healthy\00fee259-67b7-4dd7-8b36-12503bbdba14___RS_HL 2681_180deg.JPG,Blueberry - healthy,Blueberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Blueberry___healthy\00fee259-67b7-4dd7-8b36-12503bbdba14___RS_HL 2681_flipTB.JPG,Blueberry - healthy,Blueberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Blueberry___healthy\00fee259-67b7-4dd7-8b36-12503bbdba14___RS_HL 2681_newPixel25.JPG,Blueberry - healthy,Blueberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Blueberry___healthy\011405e4-a92a-44b6-9f04-10fec28d93f5___RS_HL 2311.JPG,Blueberry - healthy,Blueberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Blueberry___healthy\0137389a-9b78-4a94-afdb-c2b50861f89c___RS_HL 2347.JPG,Blueberry - healthy,Blueberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Blueberry___healthy\013ffdc5-cbd1-4202-b0f1-8fd7c1ffc0b8___RS_HL 5120.JPG,Blueberry - healthy,Blueberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Blueberry___healthy\01ca7a9f-80a6-4693-a067-50684beda81d___RS_HL 2545.JPG,Blueberry - healthy,Blueberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Blueberry___healthy\01ca7a9f-80a6-4693-a067-50684beda81d___RS_HL 2545_180deg.JPG,Blueberry - healthy,Blueberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Brown spot\DSC_0100.jpg,Rice - Brown spot,Rice,Brown spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Brown spot\DSC_0101.jpg,Rice - Brown spot,Rice,Brown spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Brown spot\DSC_0104.jpg,Rice - Brown spot,Rice,Brown spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Brown spot\DSC_0105.jpg,Rice - Brown spot,Rice,Brown spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Brown spot\DSC_0106.jpg,Rice - Brown spot,Rice,Brown spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Brown spot\DSC_0107.jpg,Rice - Brown spot,Rice,Brown spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Brown spot\DSC_0108.jpg,Rice - Brown spot,Rice,Brown spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Brown spot\DSC_0109.jpg,Rice - Brown spot,Rice,Brown spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___healthy\0008f3d3-2f85-4973-be9a-1b520b8b59fc___JR_HL 4092.JPG,Cherry including sour - healthy,Cherry including sour,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___healthy\0008f3d3-2f85-4973-be9a-1b520b8b59fc___JR_HL 4092_180deg.JPG,Cherry including sour - healthy,Cherry including sour,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___healthy\0008f3d3-2f85-4973-be9a-1b520b8b59fc___JR_HL 4092_flipTB.JPG,Cherry including sour - healthy,Cherry including sour,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___healthy\002efba9-09b3-43de-93b7-5c2460185cde___JR_HL 9655.JPG,Cherry including sour - healthy,Cherry including sour,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___healthy\0048afb8-b950-4c57-9e72-7e26282327ee___JR_HL 9765.JPG,Cherry including sour - healthy,Cherry including sour,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___healthy\0048afb8-b950-4c57-9e72-7e26282327ee___JR_HL 9765_180deg.JPG,Cherry including sour - healthy,Cherry including sour,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___healthy\005f183c-0a73-4738-91f7-c0a0e02cd9e3___JR_HL 9679.JPG,Cherry including sour - healthy,Cherry including sour,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___healthy\0086a8c7-1440-423e-939d-d0567b1fc4e4___JR_HL 4277.JPG,Cherry including sour - healthy,Cherry including sour,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___Powdery_mildew\00705aa7-5ea2-4419-9440-8ba65e108eb9___FREC_Pwd.M 0267.JPG,Cherry including sour - Powdery mildew,Cherry including sour,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___Powdery_mildew\00705aa7-5ea2-4419-9440-8ba65e108eb9___FREC_Pwd.M 0267_flipLR.JPG,Cherry including sour - Powdery mildew,Cherry including sour,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___Powdery_mildew\00b7df55-c789-43d6-a02e-a579ac9d07e6___FREC_Pwd.M 4748.JPG,Cherry including sour - Powdery mildew,Cherry including sour,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___Powdery_mildew\00b7df55-c789-43d6-a02e-a579ac9d07e6___FREC_Pwd.M 4748_flipLR.JPG,Cherry including sour - Powdery mildew,Cherry including sour,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___Powdery_mildew\00d12ac0-a293-47e0-a4c6-a80f37204c39___FREC_Pwd.M 4812.JPG,Cherry including sour - Powdery mildew,Cherry including sour,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___Powdery_mildew\00d12ac0-a293-47e0-a4c6-a80f37204c39___FREC_Pwd.M 4812_flipLR.JPG,Cherry including sour - Powdery mildew,Cherry including sour,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___Powdery_mildew\00e0a4ab-ecbd-4560-a71c-b19d86bb087c___FREC_Pwd.M 4917_flipLR.JPG,Cherry including sour - Powdery mildew,Cherry including sour,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Cherry_(including_sour)___Powdery_mildew\00f8611c-0f2c-4f24-8241-d1748c8bb48f___FREC_Pwd.M 0479.JPG,Cherry including sour - Powdery mildew,Cherry including sour,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\00120a18-ff90-46e4-92fb-2b7a10345bd3___RS_GLSp 9357_270deg.JPG,Corn maize - Cercospora leaf spot Gray leaf spot,Corn maize,Cercospora leaf spot Gray leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\00120a18-ff90-46e4-92fb-2b7a10345bd3___RS_GLSp 9357_new30degFlipLR.JPG,Corn maize - Cercospora leaf spot Gray leaf spot,Corn maize,Cercospora leaf spot Gray leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\00a20f6f-e8bd-4453-9e25-36ea70feb626___RS_GLSp 4655.JPG,Corn maize - Cercospora leaf spot Gray leaf spot,Corn maize,Cercospora leaf spot Gray leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\00a20f6f-e8bd-4453-9e25-36ea70feb626___RS_GLSp 4655_270deg.JPG,Corn maize - Cercospora leaf spot Gray leaf spot,Corn maize,Cercospora leaf spot Gray leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\00a20f6f-e8bd-4453-9e25-36ea70feb626___RS_GLSp 4655_90deg.JPG,Corn maize - Cercospora leaf spot Gray leaf spot,Corn maize,Cercospora leaf spot Gray leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\00a20f6f-e8bd-4453-9e25-36ea70feb626___RS_GLSp 4655_new30degFlipLR.JPG,Corn maize - Cercospora leaf spot Gray leaf spot,Corn maize,Cercospora leaf spot Gray leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\0140764c-6157-4995-9ada-9c10b81af3b8___RS_GLSp 4378_90deg.JPG,Corn maize - Cercospora leaf spot Gray leaf spot,Corn maize,Cercospora leaf spot Gray leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\0140764c-6157-4995-9ada-9c10b81af3b8___RS_GLSp 4378_new30degFlipLR.JPG,Corn maize - Cercospora leaf spot Gray leaf spot,Corn maize,Cercospora leaf spot Gray leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Common_rust_\RS_Rust 1563.JPG,Corn maize - Common rust,Corn maize,Common rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Common_rust_\RS_Rust 1563_flipLR.JPG,Corn maize - Common rust,Corn maize,Common rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Common_rust_\RS_Rust 1564.JPG,Corn maize - Common rust,Corn maize,Common rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Common_rust_\RS_Rust 1565.JPG,Corn maize - Common rust,Corn maize,Common rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Common_rust_\RS_Rust 1566.JPG,Corn maize - Common rust,Corn maize,Common rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Common_rust_\RS_Rust 1566_flipLR.JPG,Corn maize - Common rust,Corn maize,Common rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Common_rust_\RS_Rust 1567.JPG,Corn maize - Common rust,Corn maize,Common rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Common_rust_\RS_Rust 1567_flipLR.JPG,Corn maize - Common rust,Corn maize,Common rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___healthy\00031d74-076e-4aef-b040-e068cd3576eb___R.S_HL 8315 copy 2.jpg,Corn maize - healthy,Corn maize,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___healthy\00031d74-076e-4aef-b040-e068cd3576eb___R.S_HL 8315 copy 2_flipLR.jpg,Corn maize - healthy,Corn maize,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___healthy\00665f92-adb0-41eb-bba7-9eeadecfe10e___R.S_HL 8325 copy 2.jpg,Corn maize - healthy,Corn maize,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___healthy\00665f92-adb0-41eb-bba7-9eeadecfe10e___R.S_HL 8325 copy 2_flipLR.jpg,Corn maize - healthy,Corn maize,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___healthy\01c3bf88-d315-42a3-8fa1-fc80a05c97f1___R.S_HL 8189 copy.jpg,Corn maize - healthy,Corn maize,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___healthy\01c3bf88-d315-42a3-8fa1-fc80a05c97f1___R.S_HL 8189 copy_flipLR.jpg,Corn maize - healthy,Corn maize,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___healthy\026bd735-b9f4-4eab-86f3-23df15dbec95___R.S_HL 7938 copy.jpg,Corn maize - healthy,Corn maize,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___healthy\026bd735-b9f4-4eab-86f3-23df15dbec95___R.S_HL 7938 copy_flipLR.jpg,Corn maize - healthy,Corn maize,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Northern_Leaf_Blight\005318c8-a5fa-4420-843b-23bdda7322c2___RS_NLB 3853 copy.jpg,Corn maize - Northern Leaf Blight,Corn maize,Northern Leaf Blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Northern_Leaf_Blight\005318c8-a5fa-4420-843b-23bdda7322c2___RS_NLB 3853 copy_180deg.jpg,Corn maize - Northern Leaf Blight,Corn maize,Northern Leaf Blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Northern_Leaf_Blight\005318c8-a5fa-4420-843b-23bdda7322c2___RS_NLB 3853 copy_flipTB.jpg,Corn maize - Northern Leaf Blight,Corn maize,Northern Leaf Blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Northern_Leaf_Blight\0079c731-80f5-4fea-b6a2-4ff23a7ce139___RS_NLB 4121.JPG,Corn maize - Northern Leaf Blight,Corn maize,Northern Leaf Blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Northern_Leaf_Blight\0079c731-80f5-4fea-b6a2-4ff23a7ce139___RS_NLB 4121_180deg.JPG,Corn maize - Northern Leaf Blight,Corn maize,Northern Leaf Blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Northern_Leaf_Blight\0079c731-80f5-4fea-b6a2-4ff23a7ce139___RS_NLB 4121_flipTB.JPG,Corn maize - Northern Leaf Blight,Corn maize,Northern Leaf Blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Northern_Leaf_Blight\0118e276-ee7b-4fed-961d-057590ae9f7f___RS_NLB 4666 copy 2.jpg,Corn maize - Northern Leaf Blight,Corn maize,Northern Leaf Blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Corn_(maize)___Northern_Leaf_Blight\0118e276-ee7b-4fed-961d-057590ae9f7f___RS_NLB 4666 copy 2_180deg.jpg,Corn maize - Northern Leaf Blight,Corn maize,Northern Leaf Blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\good_Cucumber\IMG20200629182252.jpg,Cucumber - healthy,Cucumber,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\good_Cucumber\IMG20200629182254.jpg,Cucumber - healthy,Cucumber,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\good_Cucumber\IMG20200629182855.jpg,Cucumber - healthy,Cucumber,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\good_Cucumber\IMG20200629182856.jpg,Cucumber - healthy,Cucumber,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\good_Cucumber\IMG20200629182856_01.jpg,Cucumber - healthy,Cucumber,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\good_Cucumber\IMG20200629182857.jpg,Cucumber - healthy,Cucumber,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\good_Cucumber\IMG20200629182859.jpg,Cucumber - healthy,Cucumber,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\good_Cucumber\IMG20200629182903.jpg,Cucumber - healthy,Cucumber,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Black_rot\00090b0f-c140-4e77-8d20-d39f67b75fcc___FAM_B.Rot 0376_flipLR.JPG,Grape - Black rot,Grape,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Black_rot\003d09ef-e16c-4e8a-badf-847d46cb3dc0___FAM_B.Rot 3184_flipLR.JPG,Grape - Black rot,Grape,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Black_rot\004175d8-dc74-4285-8401-3cc9565730bb___FAM_B.Rot 0626.JPG,Grape - Black rot,Grape,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Black_rot\004175d8-dc74-4285-8401-3cc9565730bb___FAM_B.Rot 0626_flipLR.JPG,Grape - Black rot,Grape,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Black_rot\006efc68-9e46-4168-921c-10ef8065702c___FAM_B.Rot 3470.JPG,Grape - Black rot,Grape,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Black_rot\006efc68-9e46-4168-921c-10ef8065702c___FAM_B.Rot 3470_flipLR.JPG,Grape - Black rot,Grape,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Black_rot\00905d40-bddf-460e-b348-1dbb6a34653b___FAM_B.Rot 0664_flipLR.JPG,Grape - Black rot,Grape,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Black_rot\0093ee81-2439-414c-bfb5-a5b6cd6aea72___FAM_B.Rot 3429.JPG,Grape - Black rot,Grape,Black rot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Esca_(Black_Measles)\0075b632-2e34-4e4f-9697-fe2b332b7ef8___FAM_B.Msls 4399.JPG,Grape - Esca Black Measles,Grape,Esca Black Measles,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Esca_(Black_Measles)\00b65fe8-cee1-4b68-8ef4-1211814f2845___FAM_B.Msls 3990.JPG,Grape - Esca Black Measles,Grape,Esca Black Measles,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Esca_(Black_Measles)\00c247e8-48d2-4a56-a9f3-4eacfb4d85be___FAM_B.Msls 4197.JPG,Grape - Esca Black Measles,Grape,Esca Black Measles,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Esca_(Black_Measles)\01162551-b800-4df8-ac46-64d17d6ac5bf___FAM_B.Msls 1153.JPG,Grape - Esca Black Measles,Grape,Esca Black Measles,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Esca_(Black_Measles)\011bb69d-fb9c-4fb9-b8cc-031e91270ec2___FAM_B.Msls 4288.JPG,Grape - Esca Black Measles,Grape,Esca Black Measles,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Esca_(Black_Measles)\019afd88-6645-44c4-a5d2-bd583b877a50___FAM_B.Msls 1744.JPG,Grape - Esca Black Measles,Grape,Esca Black Measles,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Esca_(Black_Measles)\019afd88-6645-44c4-a5d2-bd583b877a50___FAM_B.Msls 1744_flipLR.JPG,Grape - Esca Black Measles,Grape,Esca Black Measles,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Esca_(Black_Measles)\02223cc6-30d2-408d-a091-65257d044a50___FAM_B.Msls 0908.JPG,Grape - Esca Black Measles,Grape,Esca Black Measles,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___healthy\00e00912-bf75-4cf8-8b7d-ad64b73bea5f___Mt.N.V_HL 6067.JPG,Grape - healthy,Grape,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___healthy\00e00912-bf75-4cf8-8b7d-ad64b73bea5f___Mt.N.V_HL 6067_180deg.JPG,Grape - healthy,Grape,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___healthy\00e00912-bf75-4cf8-8b7d-ad64b73bea5f___Mt.N.V_HL 6067_270deg.JPG,Grape - healthy,Grape,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___healthy\0163a6aa-fbf8-47c5-965f-59b6efe8bfe5___Mt.N.V_HL 6103.JPG,Grape - healthy,Grape,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___healthy\0163a6aa-fbf8-47c5-965f-59b6efe8bfe5___Mt.N.V_HL 6103_180deg.JPG,Grape - healthy,Grape,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___healthy\0163a6aa-fbf8-47c5-965f-59b6efe8bfe5___Mt.N.V_HL 6103_270deg.JPG,Grape - healthy,Grape,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___healthy\0163a6aa-fbf8-47c5-965f-59b6efe8bfe5___Mt.N.V_HL 6103_90deg.JPG,Grape - healthy,Grape,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___healthy\0163a6aa-fbf8-47c5-965f-59b6efe8bfe5___Mt.N.V_HL 6103_new30degFlipLR.JPG,Grape - healthy,Grape,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\0001aa74-bbd7-433b-a900-1dccab39d521___FAM_L.Blight 4508.JPG,Grape - Leaf blight Isariopsis Leaf Spot,Grape,Leaf blight Isariopsis Leaf Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\0001aa74-bbd7-433b-a900-1dccab39d521___FAM_L.Blight 4508_flipLR.JPG,Grape - Leaf blight Isariopsis Leaf Spot,Grape,Leaf blight Isariopsis Leaf Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\0012e1ee-fde3-478f-ab27-18648feb2b05___FAM_L.Blight 1647.JPG,Grape - Leaf blight Isariopsis Leaf Spot,Grape,Leaf blight Isariopsis Leaf Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\0012e1ee-fde3-478f-ab27-18648feb2b05___FAM_L.Blight 1647_flipLR.JPG,Grape - Leaf blight Isariopsis Leaf Spot,Grape,Leaf blight Isariopsis Leaf Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\002e4d32-15cf-4350-bfba-dde7c8992392___FAM_L.Blight 4740.JPG,Grape - Leaf blight Isariopsis Leaf Spot,Grape,Leaf blight Isariopsis Leaf Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\002e4d32-15cf-4350-bfba-dde7c8992392___FAM_L.Blight 4740_flipLR.JPG,Grape - Leaf blight Isariopsis Leaf Spot,Grape,Leaf blight Isariopsis Leaf Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\00a962ad-573b-44b1-97ae-912a6bd6e0b0___FAM_L.Blight 1431.JPG,Grape - Leaf blight Isariopsis Leaf Spot,Grape,Leaf blight Isariopsis Leaf Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\00a962ad-573b-44b1-97ae-912a6bd6e0b0___FAM_L.Blight 1431_flipLR.JPG,Grape - Leaf blight Isariopsis Leaf Spot,Grape,Leaf blight Isariopsis Leaf Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Ill_cucumber\IMG20200629181951.jpg,cucumber - diseased,cucumber,diseased,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Ill_cucumber\IMG20200629182002.jpg,cucumber - diseased,cucumber,diseased,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Ill_cucumber\IMG20200629182007.jpg,cucumber - diseased,cucumber,diseased,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Ill_cucumber\IMG20200629182011.jpg,cucumber - diseased,cucumber,diseased,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Ill_cucumber\IMG20200629182018.jpg,cucumber - diseased,cucumber,diseased,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Ill_cucumber\IMG20200629182026.jpg,cucumber - diseased,cucumber,diseased,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Ill_cucumber\IMG20200629182031.jpg,cucumber - diseased,cucumber,diseased,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Ill_cucumber\IMG20200629182038.jpg,cucumber - diseased,cucumber,diseased,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Leaf smut\DSC_0293.JPG,Rice - Leaf smut,Rice,Leaf smut,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Leaf smut\DSC_0308.JPG,Rice - Leaf smut,Rice,Leaf smut,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Leaf smut\DSC_0309.JPG,Rice - Leaf smut,Rice,Leaf smut,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Leaf smut\DSC_0310.JPG,Rice - Leaf smut,Rice,Leaf smut,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Leaf smut\DSC_0312.JPG,Rice - Leaf smut,Rice,Leaf smut,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Leaf smut\DSC_0313.JPG,Rice - Leaf smut,Rice,Leaf smut,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Leaf smut\DSC_0314.JPG,Rice - Leaf smut,Rice,Leaf smut,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Leaf smut\DSC_0315.jpg,Rice - Leaf smut,Rice,Leaf smut,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Orange___Haunglongbing_(Citrus_greening)\01245345-5513-45d5-9990-2c5012a378f6___CREC_HLB 5672.JPG,Orange - Haunglongbing Citrus greening,Orange,Haunglongbing Citrus greening,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Orange___Haunglongbing_(Citrus_greening)\01465751-00ee-4ec6-81cb-f9fe93bea61b___UF.Citrus_HLB_Lab 0110.JPG,Orange - Haunglongbing Citrus greening,Orange,Haunglongbing Citrus greening,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Orange___Haunglongbing_(Citrus_greening)\0342765a-469b-4287-bdac-2c48875cc7f5___CREC_HLB 7706.JPG,Orange - Haunglongbing Citrus greening,Orange,Haunglongbing Citrus greening,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Orange___Haunglongbing_(Citrus_greening)\037036c8-5396-48b2-b598-e08ef7b87d1d___UF.Citrus_HLB_Lab 1617.JPG,Orange - Haunglongbing Citrus greening,Orange,Haunglongbing Citrus greening,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Orange___Haunglongbing_(Citrus_greening)\03819839-72a2-49a7-8da0-8305de925246___CREC_HLB 6475.JPG,Orange - Haunglongbing Citrus greening,Orange,Haunglongbing Citrus greening,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Orange___Haunglongbing_(Citrus_greening)\038657ea-9690-421c-b52d-0f4d3c4e6266___UF.Citrus_HLB_Lab 0001.JPG,Orange - Haunglongbing Citrus greening,Orange,Haunglongbing Citrus greening,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Orange___Haunglongbing_(Citrus_greening)\04366073-7ca5-497a-91ae-87a48fcc0520___CREC_HLB 4090.JPG,Orange - Haunglongbing Citrus greening,Orange,Haunglongbing Citrus greening,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Orange___Haunglongbing_(Citrus_greening)\0473880a-569c-48e8-942b-18e257dd517f___CREC_HLB 7770.JPG,Orange - Haunglongbing Citrus greening,Orange,Haunglongbing Citrus greening,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___Bacterial_spot\00130039-8425-42e9-9dd9-15aead7271ff___Rut._Bact.S 3421.JPG,Peach - Bacterial spot,Peach,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___Bacterial_spot\00359c66-5d75-40ce-a5b7-6ef05959d2d2___Rut._Bact.S 1381.JPG,Peach - Bacterial spot,Peach,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___Bacterial_spot\004118fe-b351-4cad-83ca-280c77f82eaa___Rutg._Bact.S 1818.JPG,Peach - Bacterial spot,Peach,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___Bacterial_spot\005b14ab-17f0-40c3-af15-87abf7d4ac23___Rutg._Bact.S 2083.JPG,Peach - Bacterial spot,Peach,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___Bacterial_spot\0090cfcf-caf7-424d-b19c-533e09c6d24c___Rutg._Bact.S 2388.JPG,Peach - Bacterial spot,Peach,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___Bacterial_spot\00ddc106-692e-4c67-b2e8-569c924caf49___Rutg._Bact.S 1228.JPG,Peach - Bacterial spot,Peach,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___Bacterial_spot\00e6ad4a-5a62-48d7-ac68-9c0b8ec87f5f___Rut._Bact.S 1472.JPG,Peach - Bacterial spot,Peach,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___Bacterial_spot\00ec2d81-1ac8-464f-af9f-40e8c28d67eb___Rutg._Bact.S 2002.JPG,Peach - Bacterial spot,Peach,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___healthy\017d3d86-12bf-4280-8929-10dcd504ac46___Rutg._HL 3671.JPG,Peach - healthy,Peach,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___healthy\017d3d86-12bf-4280-8929-10dcd504ac46___Rutg._HL 3671_180deg.JPG,Peach - healthy,Peach,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___healthy\017d3d86-12bf-4280-8929-10dcd504ac46___Rutg._HL 3671_270deg.JPG,Peach - healthy,Peach,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___healthy\017d3d86-12bf-4280-8929-10dcd504ac46___Rutg._HL 3671_90deg.JPG,Peach - healthy,Peach,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___healthy\017d3d86-12bf-4280-8929-10dcd504ac46___Rutg._HL 3671_newPixel25.JPG,Peach - healthy,Peach,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___healthy\02070622-2fd7-40d5-9470-27e513ea8a90___Rutg._HL 3636.JPG,Peach - healthy,Peach,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___healthy\02070622-2fd7-40d5-9470-27e513ea8a90___Rutg._HL 3636_180deg.JPG,Peach - healthy,Peach,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Peach___healthy\02070622-2fd7-40d5-9470-27e513ea8a90___Rutg._HL 3636_90deg.JPG,Peach - healthy,Peach,healthy,True
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___Bacterial_spot\0022d6b7-d47c-4ee2-ae9a-392a53f48647___JR_B.Spot 8964.JPG",Pepper bell - Bacterial spot,Pepper bell,Bacterial spot,False
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___Bacterial_spot\00f2e69a-1e56-412d-8a79-fdce794a17e4___JR_B.Spot 3132.JPG",Pepper bell - Bacterial spot,Pepper bell,Bacterial spot,False
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___Bacterial_spot\01613cd0-d3cd-4e96-945c-a312002037bf___JR_B.Spot 3262.JPG",Pepper bell - Bacterial spot,Pepper bell,Bacterial spot,False
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___Bacterial_spot\01613cd0-d3cd-4e96-945c-a312002037bf___JR_B.Spot 3262_180deg.JPG",Pepper bell - Bacterial spot,Pepper bell,Bacterial spot,False
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___Bacterial_spot\01613cd0-d3cd-4e96-945c-a312002037bf___JR_B.Spot 3262_flipTB.JPG",Pepper bell - Bacterial spot,Pepper bell,Bacterial spot,False
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___Bacterial_spot\0169b9ac-07b9-4be1-8b85-da94481f05a4___NREC_B.Spot 9169.JPG",Pepper bell - Bacterial spot,Pepper bell,Bacterial spot,False
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___Bacterial_spot\0169b9ac-07b9-4be1-8b85-da94481f05a4___NREC_B.Spot 9169_180deg.JPG",Pepper bell - Bacterial spot,Pepper bell,Bacterial spot,False
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___Bacterial_spot\0169b9ac-07b9-4be1-8b85-da94481f05a4___NREC_B.Spot 9169_flipTB.JPG",Pepper bell - Bacterial spot,Pepper bell,Bacterial spot,False
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___healthy\00208a93-7687-4e8c-b79e-3138687e0f38___JR_HL 7955.JPG",Pepper bell - healthy,Pepper bell,healthy,True
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___healthy\002f87b7-e1a5-49e5-a422-bb423630ded5___JR_HL 8068_180deg.JPG",Pepper bell - healthy,Pepper bell,healthy,True
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___healthy\002f87b7-e1a5-49e5-a422-bb423630ded5___JR_HL 8068_new30degFlipLR.JPG",Pepper bell - healthy,Pepper bell,healthy,True
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___healthy\002f87b7-e1a5-49e5-a422-bb423630ded5___JR_HL 8068_newPixel25.JPG",Pepper bell - healthy,Pepper bell,healthy,True
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___healthy\00726ad4-2569-46ce-9d4e-dbf82b14bd94___JR_HL 8686.JPG",Pepper bell - healthy,Pepper bell,healthy,True
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___healthy\0119205b-cfac-4322-be37-dcc401fcfa11___JR_HL 8527.JPG",Pepper bell - healthy,Pepper bell,healthy,True
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___healthy\0137d804-551d-4f78-88b4-d603056dd7e7___JR_HL 7719.JPG",Pepper bell - healthy,Pepper bell,healthy,True
+"C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Pepper,_bell___healthy\01468dda-44f3-4de8-8aed-948bcc29b719___JR_HL 8704.JPG",Pepper bell - healthy,Pepper bell,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Early_blight\001187a0-57ab-4329-baff-e7246a9edeb0___RS_Early.B 8178.JPG,Potato - Early blight,Potato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Early_blight\001187a0-57ab-4329-baff-e7246a9edeb0___RS_Early.B 8178_180deg.JPG,Potato - Early blight,Potato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Early_blight\001187a0-57ab-4329-baff-e7246a9edeb0___RS_Early.B 8178_flipTB.JPG,Potato - Early blight,Potato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Early_blight\009c8c31-f22d-4ffd-8f16-189c6f06c577___RS_Early.B 7885.JPG,Potato - Early blight,Potato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Early_blight\0182e991-97f0-4805-a1f7-6e1b4306d518___RS_Early.B 7015.JPG,Potato - Early blight,Potato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Early_blight\0182e991-97f0-4805-a1f7-6e1b4306d518___RS_Early.B 7015_180deg.JPG,Potato - Early blight,Potato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Early_blight\0182e991-97f0-4805-a1f7-6e1b4306d518___RS_Early.B 7015_flipTB.JPG,Potato - Early blight,Potato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Early_blight\02578b86-b234-4ac0-9bc3-691b5610e2bf___RS_Early.B 7562.JPG,Potato - Early blight,Potato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___healthy\00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL 1864.JPG,Potato - healthy,Potato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___healthy\00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL 1864_270deg.JPG,Potato - healthy,Potato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___healthy\00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL 1864_90deg.JPG,Potato - healthy,Potato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___healthy\00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL 1864_flipTB.JPG,Potato - healthy,Potato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___healthy\00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL 1864_new200degFlipLR.JPG,Potato - healthy,Potato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___healthy\00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL 1864_new200degFlipTB.JPG,Potato - healthy,Potato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___healthy\00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL 1864_new30degFlipLR.JPG,Potato - healthy,Potato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___healthy\00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL 1864_new30degFlipTB.JPG,Potato - healthy,Potato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Late_blight\0051e5e8-d1c4-4a84-bf3a-a426cdad6285___RS_LB 4640.JPG,Potato - Late blight,Potato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Late_blight\0051e5e8-d1c4-4a84-bf3a-a426cdad6285___RS_LB 4640_180deg.JPG,Potato - Late blight,Potato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Late_blight\0051e5e8-d1c4-4a84-bf3a-a426cdad6285___RS_LB 4640_flipTB.JPG,Potato - Late blight,Potato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Late_blight\00695906-210d-4a9d-822e-986a17384115___RS_LB 4026_180deg.JPG,Potato - Late blight,Potato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Late_blight\00695906-210d-4a9d-822e-986a17384115___RS_LB 4026_flipTB.JPG,Potato - Late blight,Potato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Late_blight\006cc01a-1888-4326-9b62-a65cb55a6377___RS_LB 5207.JPG,Potato - Late blight,Potato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Late_blight\0085ef03-aec3-431a-99a1-de286e10c0cf___RS_LB 2949.JPG,Potato - Late blight,Potato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Potato___Late_blight\00b1f292-23dd-44d4-aad3-c1ffb6a6ad5a___RS_LB 4479.JPG,Potato - Late blight,Potato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Raspberry___healthy\00a3fc0e-64cc-4e35-ac2f-aef04fda9b22___Mary_HL 9177.JPG,Raspberry - healthy,Raspberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Raspberry___healthy\00a3fc0e-64cc-4e35-ac2f-aef04fda9b22___Mary_HL 9177_180deg.JPG,Raspberry - healthy,Raspberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Raspberry___healthy\00a3fc0e-64cc-4e35-ac2f-aef04fda9b22___Mary_HL 9177_270deg.JPG,Raspberry - healthy,Raspberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Raspberry___healthy\00a3fc0e-64cc-4e35-ac2f-aef04fda9b22___Mary_HL 9177_90deg.JPG,Raspberry - healthy,Raspberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Raspberry___healthy\00a3fc0e-64cc-4e35-ac2f-aef04fda9b22___Mary_HL 9177_newPixel25.JPG,Raspberry - healthy,Raspberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Raspberry___healthy\020e14fb-6016-4d7f-b489-445e0021b58e___Mary_HL 6324_270deg.JPG,Raspberry - healthy,Raspberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Raspberry___healthy\020e14fb-6016-4d7f-b489-445e0021b58e___Mary_HL 6324_new30degFlipLR.JPG,Raspberry - healthy,Raspberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Raspberry___healthy\03a615df-ed85-4ae6-8b41-d5b4c980b76b___Mary_HL 6366.JPG,Raspberry - healthy,Raspberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_APHIDS\BANANA_APHIDS_0001_1.jpg,Banana - APHIDS,Banana,APHIDS,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_APHIDS\BANANA_APHIDS_0001_10.jpg,Banana - APHIDS,Banana,APHIDS,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_APHIDS\BANANA_APHIDS_0001_100.jpg,Banana - APHIDS,Banana,APHIDS,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_APHIDS\BANANA_APHIDS_0001_101.jpg,Banana - APHIDS,Banana,APHIDS,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_APHIDS\BANANA_APHIDS_0001_102.jpg,Banana - APHIDS,Banana,APHIDS,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_APHIDS\BANANA_APHIDS_0001_103.jpg,Banana - APHIDS,Banana,APHIDS,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_APHIDS\BANANA_APHIDS_0001_104.jpg,Banana - APHIDS,Banana,APHIDS,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_APHIDS\BANANA_APHIDS_0001_105.jpg,Banana - APHIDS,Banana,APHIDS,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BACTERIAL_SOFT_ROT\BACTERIAL_SOFT_ROT_(1).jpg,Banana - BACTERIAL SOFT ROT,Banana,BACTERIAL SOFT ROT,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BACTERIAL_SOFT_ROT\BACTERIAL_SOFT_ROT_(10).jpg,Banana - BACTERIAL SOFT ROT,Banana,BACTERIAL SOFT ROT,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BACTERIAL_SOFT_ROT\BACTERIAL_SOFT_ROT_(100).jpg,Banana - BACTERIAL SOFT ROT,Banana,BACTERIAL SOFT ROT,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BACTERIAL_SOFT_ROT\BACTERIAL_SOFT_ROT_(1000).jpg,Banana - BACTERIAL SOFT ROT,Banana,BACTERIAL SOFT ROT,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BACTERIAL_SOFT_ROT\BACTERIAL_SOFT_ROT_(1001).jpg,Banana - BACTERIAL SOFT ROT,Banana,BACTERIAL SOFT ROT,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BACTERIAL_SOFT_ROT\BACTERIAL_SOFT_ROT_(1002).jpg,Banana - BACTERIAL SOFT ROT,Banana,BACTERIAL SOFT ROT,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BACTERIAL_SOFT_ROT\BACTERIAL_SOFT_ROT_(1003).jpg,Banana - BACTERIAL SOFT ROT,Banana,BACTERIAL SOFT ROT,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BACTERIAL_SOFT_ROT\BACTERIAL_SOFT_ROT_(1004).jpg,Banana - BACTERIAL SOFT ROT,Banana,BACTERIAL SOFT ROT,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BLACK_SIGATOKA\BLACK_SIGATOKA_0001_1.jpg,Banana - BLACK SIGATOKA,Banana,BLACK SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BLACK_SIGATOKA\BLACK_SIGATOKA_0001_10.jpg,Banana - BLACK SIGATOKA,Banana,BLACK SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BLACK_SIGATOKA\BLACK_SIGATOKA_0001_100.jpg,Banana - BLACK SIGATOKA,Banana,BLACK SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BLACK_SIGATOKA\BLACK_SIGATOKA_0001_101.jpg,Banana - BLACK SIGATOKA,Banana,BLACK SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BLACK_SIGATOKA\BLACK_SIGATOKA_0001_102.jpg,Banana - BLACK SIGATOKA,Banana,BLACK SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BLACK_SIGATOKA\BLACK_SIGATOKA_0001_103.jpg,Banana - BLACK SIGATOKA,Banana,BLACK SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BLACK_SIGATOKA\BLACK_SIGATOKA_0001_104.jpg,Banana - BLACK SIGATOKA,Banana,BLACK SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_BLACK_SIGATOKA\BLACK_SIGATOKA_0001_105.jpg,Banana - BLACK SIGATOKA,Banana,BLACK SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_FRUIT-SCARRING_BEETLE\FRUIT_SCARRING_BEETLE_0001_1.jpg,Banana - FRUIT SCARRING BEETLE,Banana,FRUIT SCARRING BEETLE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_FRUIT-SCARRING_BEETLE\FRUIT_SCARRING_BEETLE_0001_10.jpg,Banana - FRUIT SCARRING BEETLE,Banana,FRUIT SCARRING BEETLE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_FRUIT-SCARRING_BEETLE\FRUIT_SCARRING_BEETLE_0001_100.jpg,Banana - FRUIT SCARRING BEETLE,Banana,FRUIT SCARRING BEETLE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_FRUIT-SCARRING_BEETLE\FRUIT_SCARRING_BEETLE_0001_101.jpg,Banana - FRUIT SCARRING BEETLE,Banana,FRUIT SCARRING BEETLE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_FRUIT-SCARRING_BEETLE\FRUIT_SCARRING_BEETLE_0001_102.jpg,Banana - FRUIT SCARRING BEETLE,Banana,FRUIT SCARRING BEETLE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_FRUIT-SCARRING_BEETLE\FRUIT_SCARRING_BEETLE_0001_103.jpg,Banana - FRUIT SCARRING BEETLE,Banana,FRUIT SCARRING BEETLE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_FRUIT-SCARRING_BEETLE\FRUIT_SCARRING_BEETLE_0001_104.jpg,Banana - FRUIT SCARRING BEETLE,Banana,FRUIT SCARRING BEETLE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_FRUIT-SCARRING_BEETLE\FRUIT_SCARRING_BEETLE_0001_105.jpg,Banana - FRUIT SCARRING BEETLE,Banana,FRUIT SCARRING BEETLE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PANAMA_DISEASE\PANAMA_0001_1.jpg,Banana - PANAMA DISEASE,Banana,PANAMA DISEASE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PANAMA_DISEASE\PANAMA_0001_10.jpg,Banana - PANAMA DISEASE,Banana,PANAMA DISEASE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PANAMA_DISEASE\PANAMA_0001_100.jpg,Banana - PANAMA DISEASE,Banana,PANAMA DISEASE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PANAMA_DISEASE\PANAMA_0001_101.jpg,Banana - PANAMA DISEASE,Banana,PANAMA DISEASE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PANAMA_DISEASE\PANAMA_0001_102.jpg,Banana - PANAMA DISEASE,Banana,PANAMA DISEASE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PANAMA_DISEASE\PANAMA_0001_11.jpg,Banana - PANAMA DISEASE,Banana,PANAMA DISEASE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PANAMA_DISEASE\PANAMA_0001_12.jpg,Banana - PANAMA DISEASE,Banana,PANAMA DISEASE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PANAMA_DISEASE\PANAMA_0001_13.jpg,Banana - PANAMA DISEASE,Banana,PANAMA DISEASE,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PSEUDOSTEM_WEEVIL\A_(1).jpg,Banana - PSEUDOSTEM WEEVIL,Banana,PSEUDOSTEM WEEVIL,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PSEUDOSTEM_WEEVIL\A_(10).jpg,Banana - PSEUDOSTEM WEEVIL,Banana,PSEUDOSTEM WEEVIL,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PSEUDOSTEM_WEEVIL\A_(100).jpg,Banana - PSEUDOSTEM WEEVIL,Banana,PSEUDOSTEM WEEVIL,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PSEUDOSTEM_WEEVIL\A_(101).jpg,Banana - PSEUDOSTEM WEEVIL,Banana,PSEUDOSTEM WEEVIL,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PSEUDOSTEM_WEEVIL\A_(102).jpg,Banana - PSEUDOSTEM WEEVIL,Banana,PSEUDOSTEM WEEVIL,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PSEUDOSTEM_WEEVIL\A_(103).jpg,Banana - PSEUDOSTEM WEEVIL,Banana,PSEUDOSTEM WEEVIL,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PSEUDOSTEM_WEEVIL\A_(104).jpg,Banana - PSEUDOSTEM WEEVIL,Banana,PSEUDOSTEM WEEVIL,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_PSEUDOSTEM_WEEVIL\A_(105).jpg,Banana - PSEUDOSTEM WEEVIL,Banana,PSEUDOSTEM WEEVIL,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_YELLOW_SIGATOKA\YELLOW_SIGATOKA_0001_1.jpg,Banana - YELLOW SIGATOKA,Banana,YELLOW SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_YELLOW_SIGATOKA\YELLOW_SIGATOKA_0001_10.jpg,Banana - YELLOW SIGATOKA,Banana,YELLOW SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_YELLOW_SIGATOKA\YELLOW_SIGATOKA_0001_100.jpg,Banana - YELLOW SIGATOKA,Banana,YELLOW SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_YELLOW_SIGATOKA\YELLOW_SIGATOKA_0001_101.jpg,Banana - YELLOW SIGATOKA,Banana,YELLOW SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_YELLOW_SIGATOKA\YELLOW_SIGATOKA_0001_102.jpg,Banana - YELLOW SIGATOKA,Banana,YELLOW SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_YELLOW_SIGATOKA\YELLOW_SIGATOKA_0001_103.jpg,Banana - YELLOW SIGATOKA,Banana,YELLOW SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_YELLOW_SIGATOKA\YELLOW_SIGATOKA_0001_104.jpg,Banana - YELLOW SIGATOKA,Banana,YELLOW SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\RESIZED_BANANA_YELLOW_SIGATOKA\YELLOW_SIGATOKA_0001_105.jpg,Banana - YELLOW SIGATOKA,Banana,YELLOW SIGATOKA,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Soybean___healthy\007734dd-ed98-4b69-b489-f7f98f18f065___RS_HL 2864.JPG,Soybean - healthy,Soybean,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Soybean___healthy\015222e7-d0cc-4f39-9291-81e56d218db0___RS_HL 5289.JPG,Soybean - healthy,Soybean,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Soybean___healthy\018149f9-81fa-46fd-a35d-ee3618b4effc___RS_HL 3091.JPG,Soybean - healthy,Soybean,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Soybean___healthy\0203831c-0625-41e8-a449-1caed155388d___RS_HL 6254.JPG,Soybean - healthy,Soybean,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Soybean___healthy\027550eb-0031-459c-a56b-b702d62a9571___RS_HL 4321.JPG,Soybean - healthy,Soybean,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Soybean___healthy\029201ad-36b4-41ad-ba0e-2a4b1c8f79ad___RS_HL 4814.JPG,Soybean - healthy,Soybean,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Soybean___healthy\033724be-ffca-44a6-b97c-abb8852ee628___RS_HL 4237.JPG,Soybean - healthy,Soybean,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Soybean___healthy\050357f1-5c8f-4535-a14d-a23d5ce34c2e___RS_HL 2702.JPG,Soybean - healthy,Soybean,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Squash___Powdery_mildew\0045a100-36d3-45df-b417-d487d6e07eb4___UMD_Powd.M 0003.JPG,Squash - Powdery mildew,Squash,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Squash___Powdery_mildew\0056878d-a244-4653-ad56-7e97080c7fd2___UMD_Powd.M 9962.JPG,Squash - Powdery mildew,Squash,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Squash___Powdery_mildew\0061de03-5f84-413a-b30d-1bb575cf3267___UMD_Powd.M 0415.JPG,Squash - Powdery mildew,Squash,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Squash___Powdery_mildew\009996d9-797e-4450-afad-e8346f7ede04___UMD_Powd.M 0216.JPG,Squash - Powdery mildew,Squash,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Squash___Powdery_mildew\009f52f7-d279-4af0-95c1-938264186ed1___MD_Powd.M 0493.JPG,Squash - Powdery mildew,Squash,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Squash___Powdery_mildew\00a90bbc-a12c-426d-bcc8-fadb371ea6d0___UMD_Powd.M 0358_flipLR.JPG,Squash - Powdery mildew,Squash,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Squash___Powdery_mildew\00cfd4c7-4ccd-45a8-813c-f1cb01147aed___UMD_Powd.M 0108.JPG,Squash - Powdery mildew,Squash,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Squash___Powdery_mildew\00cfd4c7-4ccd-45a8-813c-f1cb01147aed___UMD_Powd.M 0108_flipLR.JPG,Squash - Powdery mildew,Squash,Powdery mildew,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___healthy\00166615-5e7b-4318-8957-5e50df335ee8___RS_HL 1785.JPG,Strawberry - healthy,Strawberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___healthy\00166615-5e7b-4318-8957-5e50df335ee8___RS_HL 1785_new30degFlipLR.JPG,Strawberry - healthy,Strawberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___healthy\00532378-bfb2-4d3b-8b19-903ecc085624___RS_HL 2021.JPG,Strawberry - healthy,Strawberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___healthy\00532378-bfb2-4d3b-8b19-903ecc085624___RS_HL 2021_180deg.JPG,Strawberry - healthy,Strawberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___healthy\00532378-bfb2-4d3b-8b19-903ecc085624___RS_HL 2021_270deg.JPG,Strawberry - healthy,Strawberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___healthy\00532378-bfb2-4d3b-8b19-903ecc085624___RS_HL 2021_new30degFlipLR.JPG,Strawberry - healthy,Strawberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___healthy\00e9a277-ca5e-4350-95ce-8b2918b69fb9___RS_HL 4667.JPG,Strawberry - healthy,Strawberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___healthy\00e9a277-ca5e-4350-95ce-8b2918b69fb9___RS_HL 4667_270deg.JPG,Strawberry - healthy,Strawberry,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___Leaf_scorch\0024203d-6e4c-490f-b9a8-e5926df0b76e___RS_L.Scorch 0795.JPG,Strawberry - Leaf scorch,Strawberry,Leaf scorch,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___Leaf_scorch\0024203d-6e4c-490f-b9a8-e5926df0b76e___RS_L.Scorch 0795_flipLR.JPG,Strawberry - Leaf scorch,Strawberry,Leaf scorch,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___Leaf_scorch\0112c6b2-72cd-402b-89cd-ca052983403e___RS_L.Scorch 1161.JPG,Strawberry - Leaf scorch,Strawberry,Leaf scorch,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___Leaf_scorch\0112c6b2-72cd-402b-89cd-ca052983403e___RS_L.Scorch 1161_flipLR.JPG,Strawberry - Leaf scorch,Strawberry,Leaf scorch,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___Leaf_scorch\0138e78b-9802-43b5-b40e-84c38160418c___RS_L.Scorch 1289.JPG,Strawberry - Leaf scorch,Strawberry,Leaf scorch,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___Leaf_scorch\0138e78b-9802-43b5-b40e-84c38160418c___RS_L.Scorch 1289_flipLR.JPG,Strawberry - Leaf scorch,Strawberry,Leaf scorch,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___Leaf_scorch\01647a51-6ee5-4686-8f60-26ebed68fe21___RS_L.Scorch 0130.JPG,Strawberry - Leaf scorch,Strawberry,Leaf scorch,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Strawberry___Leaf_scorch\01647a51-6ee5-4686-8f60-26ebed68fe21___RS_L.Scorch 0130_flipLR.JPG,Strawberry - Leaf scorch,Strawberry,Leaf scorch,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Healthy\healthy_(1).jpeg,Sugarcane - Healthy,Sugarcane,Healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Healthy\healthy_(10).jpeg,Sugarcane - Healthy,Sugarcane,Healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Healthy\healthy_(100).jpeg,Sugarcane - Healthy,Sugarcane,Healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Healthy\healthy_(101).jpeg,Sugarcane - Healthy,Sugarcane,Healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Healthy\healthy_(102).jpeg,Sugarcane - Healthy,Sugarcane,Healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Healthy\healthy_(103).jpeg,Sugarcane - Healthy,Sugarcane,Healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Healthy\healthy_(104).jpeg,Sugarcane - Healthy,Sugarcane,Healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Healthy\healthy_(105).jpeg,Sugarcane - Healthy,Sugarcane,Healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Mosaic\mosaic_(1).jpeg,Sugarcane - Mosaic,Sugarcane,Mosaic,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Mosaic\mosaic_(10).jpeg,Sugarcane - Mosaic,Sugarcane,Mosaic,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Mosaic\mosaic_(100).jpeg,Sugarcane - Mosaic,Sugarcane,Mosaic,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Mosaic\mosaic_(101).jpeg,Sugarcane - Mosaic,Sugarcane,Mosaic,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Mosaic\mosaic_(102).jpeg,Sugarcane - Mosaic,Sugarcane,Mosaic,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Mosaic\mosaic_(103).jpeg,Sugarcane - Mosaic,Sugarcane,Mosaic,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Mosaic\mosaic_(104).jpeg,Sugarcane - Mosaic,Sugarcane,Mosaic,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Mosaic\mosaic_(105).jpeg,Sugarcane - Mosaic,Sugarcane,Mosaic,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_RedRot\redrot_(1).jpeg,Sugarcane - RedRot,Sugarcane,RedRot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_RedRot\redrot_(10).jpeg,Sugarcane - RedRot,Sugarcane,RedRot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_RedRot\redrot_(100).jpeg,Sugarcane - RedRot,Sugarcane,RedRot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_RedRot\redrot_(101).jpeg,Sugarcane - RedRot,Sugarcane,RedRot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_RedRot\redrot_(102).jpeg,Sugarcane - RedRot,Sugarcane,RedRot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_RedRot\redrot_(103).jpeg,Sugarcane - RedRot,Sugarcane,RedRot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_RedRot\redrot_(104).jpeg,Sugarcane - RedRot,Sugarcane,RedRot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_RedRot\redrot_(105).jpeg,Sugarcane - RedRot,Sugarcane,RedRot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Rust\rust_(1).jpeg,Sugarcane - Rust,Sugarcane,Rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Rust\rust_(10).jpeg,Sugarcane - Rust,Sugarcane,Rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Rust\rust_(100).jpeg,Sugarcane - Rust,Sugarcane,Rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Rust\rust_(101).jpeg,Sugarcane - Rust,Sugarcane,Rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Rust\rust_(102).jpeg,Sugarcane - Rust,Sugarcane,Rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Rust\rust_(103).jpeg,Sugarcane - Rust,Sugarcane,Rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Rust\rust_(104).jpeg,Sugarcane - Rust,Sugarcane,Rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Rust\rust_(105).jpeg,Sugarcane - Rust,Sugarcane,Rust,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Yellow\yellow_(1).jpeg,Sugarcane - Yellow,Sugarcane,Yellow,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Yellow\yellow_(10).jpeg,Sugarcane - Yellow,Sugarcane,Yellow,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Yellow\yellow_(100).jpeg,Sugarcane - Yellow,Sugarcane,Yellow,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Yellow\yellow_(101).jpeg,Sugarcane - Yellow,Sugarcane,Yellow,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Yellow\yellow_(102).jpeg,Sugarcane - Yellow,Sugarcane,Yellow,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Yellow\yellow_(103).jpeg,Sugarcane - Yellow,Sugarcane,Yellow,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Yellow\yellow_(104).jpeg,Sugarcane - Yellow,Sugarcane,Yellow,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Sugarcane_Leaf_Yellow\yellow_(105).jpeg,Sugarcane - Yellow,Sugarcane,Yellow,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Bacterial_spot\00416648-be6e-4bd4-bc8d-82f43f8a7240___GCREC_Bact.Sp 3110.JPG,Tomato - Bacterial spot,Tomato,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Bacterial_spot\0045ba29-ed1b-43b4-afde-719cc7adefdb___GCREC_Bact.Sp 6254.JPG,Tomato - Bacterial spot,Tomato,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Bacterial_spot\00639d29-2d1a-4fcf-9bd3-a2b3109c74c4___UF.GRC_BS_Lab Leaf 1054.JPG,Tomato - Bacterial spot,Tomato,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Bacterial_spot\00728f4d-83a0-49f1-87f8-374646fcda05___GCREC_Bact.Sp 6326.JPG,Tomato - Bacterial spot,Tomato,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Bacterial_spot\00a7c269-3476-4d25-b744-44d6353cd921___GCREC_Bact.Sp 5807.JPG,Tomato - Bacterial spot,Tomato,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Bacterial_spot\00b7e89a-e129-4576-b51f-48923888bff9___GCREC_Bact.Sp 6202.JPG,Tomato - Bacterial spot,Tomato,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Bacterial_spot\01375198-62af-4c40-bddf-f3c11107200b___GCREC_Bact.Sp 5914.JPG,Tomato - Bacterial spot,Tomato,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Bacterial_spot\01a3cf3f-94c1-44d5-8972-8c509d62558e___GCREC_Bact.Sp 3396.JPG,Tomato - Bacterial spot,Tomato,Bacterial spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Early_blight\0034a551-9512-44e5-ba6c-827f85ecc688___RS_Erly.B 9432.JPG,Tomato - Early blight,Tomato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Early_blight\00c5c908-fc25-4710-a109-db143da23112___RS_Erly.B 7778.JPG,Tomato - Early blight,Tomato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Early_blight\00e7c4b2-3005-4558-9cfa-235e356cb7a8___RS_Erly.B 7844.JPG,Tomato - Early blight,Tomato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Early_blight\0114f7b3-7f56-4bef-aa47-7a82da142d4b___RS_Erly.B 7437_180deg.JPG,Tomato - Early blight,Tomato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Early_blight\0114f7b3-7f56-4bef-aa47-7a82da142d4b___RS_Erly.B 7437_flipTB.JPG,Tomato - Early blight,Tomato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Early_blight\011aa278-a39e-40b0-b6e4-2e2f835889f0___RS_Erly.B 8251.JPG,Tomato - Early blight,Tomato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Early_blight\01861c93-ea8b-4820-aaa8-cc6003b3e75b___RS_Erly.B 7855.JPG,Tomato - Early blight,Tomato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Early_blight\01861c93-ea8b-4820-aaa8-cc6003b3e75b___RS_Erly.B 7855_180deg.JPG,Tomato - Early blight,Tomato,Early blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___healthy\000146ff-92a4-4db6-90ad-8fce2ae4fddd___GH_HL Leaf 259.1.JPG,Tomato - healthy,Tomato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___healthy\000bf685-b305-408b-91f4-37030f8e62db___GH_HL Leaf 308.1.JPG,Tomato - healthy,Tomato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___healthy\000bf685-b305-408b-91f4-37030f8e62db___GH_HL Leaf 308.1_180deg.JPG,Tomato - healthy,Tomato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___healthy\000bf685-b305-408b-91f4-37030f8e62db___GH_HL Leaf 308.1_flipTB.JPG,Tomato - healthy,Tomato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___healthy\000bf685-b305-408b-91f4-37030f8e62db___GH_HL Leaf 308.1_new30degFlipLR.JPG,Tomato - healthy,Tomato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___healthy\000bf685-b305-408b-91f4-37030f8e62db___GH_HL Leaf 308.1_newPixel25.JPG,Tomato - healthy,Tomato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___healthy\0031da2a-8edd-468f-a8b1-106657717a32___RS_HL 0105.JPG,Tomato - healthy,Tomato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___healthy\003944fc-3b99-4a0f-9ed4-0e07352fd8b3___RS_HL 9844.JPG,Tomato - healthy,Tomato,healthy,True
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Late_blight\0003faa8-4b27-4c65-bf42-6d9e352ca1a5___RS_Late.B 4946.JPG,Tomato - Late blight,Tomato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Late_blight\0003faa8-4b27-4c65-bf42-6d9e352ca1a5___RS_Late.B 4946_flipLR.JPG,Tomato - Late blight,Tomato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Late_blight\00355ec2-f12c-4015-b8f9-94354f69ce22___RS_Late.B 5311.JPG,Tomato - Late blight,Tomato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Late_blight\005e3b43-9050-47da-9498-f9ecdcc703b3___RS_Late.B 5104_flipLR.JPG,Tomato - Late blight,Tomato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Late_blight\013f987a-9371-4763-a104-ea6f326e584b___GHLB2 Leaf 8556.JPG,Tomato - Late blight,Tomato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Late_blight\01425d17-4c97-46e3-b395-c1453b78ab78___GHLB2 Leaf 9100.JPG,Tomato - Late blight,Tomato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Late_blight\014d4972-1301-46d3-afc4-56470b774137___GHLB2 Leaf 8831.JPG,Tomato - Late blight,Tomato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Late_blight\014eee0c-8000-4762-b4b8-63ecc2fadc13___GHLB2ES Leaf 69.1.JPG,Tomato - Late blight,Tomato,Late blight,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Leaf_Mold\00694db7-3327-45e0-b4da-a8bb7ab6a4b7___Crnl_L.Mold 6923.JPG,Tomato - Leaf Mold,Tomato,Leaf Mold,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Leaf_Mold\00694db7-3327-45e0-b4da-a8bb7ab6a4b7___Crnl_L.Mold 6923_180deg.JPG,Tomato - Leaf Mold,Tomato,Leaf Mold,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Leaf_Mold\00694db7-3327-45e0-b4da-a8bb7ab6a4b7___Crnl_L.Mold 6923_flipTB.JPG,Tomato - Leaf Mold,Tomato,Leaf Mold,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Leaf_Mold\0160c3b5-d89e-40e5-a313-49ae1524040a___Crnl_L.Mold 6823_180deg.JPG,Tomato - Leaf Mold,Tomato,Leaf Mold,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Leaf_Mold\0160c3b5-d89e-40e5-a313-49ae1524040a___Crnl_L.Mold 6823_flipTB.JPG,Tomato - Leaf Mold,Tomato,Leaf Mold,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Leaf_Mold\0185befe-f0b5-4848-9677-f33c2237f4e9___Crnl_L.Mold 8729.JPG,Tomato - Leaf Mold,Tomato,Leaf Mold,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Leaf_Mold\0185befe-f0b5-4848-9677-f33c2237f4e9___Crnl_L.Mold 8729_180deg.JPG,Tomato - Leaf Mold,Tomato,Leaf Mold,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Leaf_Mold\0185befe-f0b5-4848-9677-f33c2237f4e9___Crnl_L.Mold 8729_flipTB.JPG,Tomato - Leaf Mold,Tomato,Leaf Mold,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Septoria_leaf_spot\002533c1-722b-44e5-9d2e-91f7747b2543___Keller.St_CG 1831.JPG,Tomato - Septoria leaf spot,Tomato,Septoria leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Septoria_leaf_spot\0025c401-7785-49c5-8bef-780a8a0d3652___Matt.S_CG 2694.JPG,Tomato - Septoria leaf spot,Tomato,Septoria leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Septoria_leaf_spot\006c018a-bb21-4a24-b1ff-d8b2864a7354___Matt.S_CG 6192.JPG,Tomato - Septoria leaf spot,Tomato,Septoria leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Septoria_leaf_spot\009bb542-f0c0-40f2-98a7-f547c5adec45___Matt.S_CG 1355.JPG,Tomato - Septoria leaf spot,Tomato,Septoria leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Septoria_leaf_spot\009ce7ca-77de-4e4e-9f59-bec9162df779___Matt.S_CG 7403.JPG,Tomato - Septoria leaf spot,Tomato,Septoria leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Septoria_leaf_spot\00f16858-f392-4d9e-ad9f-efab8049a13f___JR_Sept.L.S 8368.JPG,Tomato - Septoria leaf spot,Tomato,Septoria leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Septoria_leaf_spot\00f16858-f392-4d9e-ad9f-efab8049a13f___JR_Sept.L.S 8368_180deg.JPG,Tomato - Septoria leaf spot,Tomato,Septoria leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Septoria_leaf_spot\00f16858-f392-4d9e-ad9f-efab8049a13f___JR_Sept.L.S 8368_flipTB.JPG,Tomato - Septoria leaf spot,Tomato,Septoria leaf spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Spider_mites Two-spotted_spider_mite\003b7929-a364-4e74-be1c-37c4c0a6ec63___Com.G_SpM_FL 1414.JPG,Tomato - Spider mites Two spotted spider mite,Tomato,Spider mites Two spotted spider mite,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Spider_mites Two-spotted_spider_mite\003b7929-a364-4e74-be1c-37c4c0a6ec63___Com.G_SpM_FL 1414_180deg.JPG,Tomato - Spider mites Two spotted spider mite,Tomato,Spider mites Two spotted spider mite,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Spider_mites Two-spotted_spider_mite\003b7929-a364-4e74-be1c-37c4c0a6ec63___Com.G_SpM_FL 1414_flipTB.JPG,Tomato - Spider mites Two spotted spider mite,Tomato,Spider mites Two spotted spider mite,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Spider_mites Two-spotted_spider_mite\00bc7858-1dca-4bfb-a828-225f03bd72a5___Com.G_SpM_FL 9455_180deg.JPG,Tomato - Spider mites Two spotted spider mite,Tomato,Spider mites Two spotted spider mite,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Spider_mites Two-spotted_spider_mite\00bc7858-1dca-4bfb-a828-225f03bd72a5___Com.G_SpM_FL 9455_flipTB.JPG,Tomato - Spider mites Two spotted spider mite,Tomato,Spider mites Two spotted spider mite,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Spider_mites Two-spotted_spider_mite\00c8e9a0-1fb8-434b-8981-25511358ddc9___Com.G_SpM_FL 8717.JPG,Tomato - Spider mites Two spotted spider mite,Tomato,Spider mites Two spotted spider mite,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Spider_mites Two-spotted_spider_mite\00c8e9a0-1fb8-434b-8981-25511358ddc9___Com.G_SpM_FL 8717_180deg.JPG,Tomato - Spider mites Two spotted spider mite,Tomato,Spider mites Two spotted spider mite,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Spider_mites Two-spotted_spider_mite\00c8e9a0-1fb8-434b-8981-25511358ddc9___Com.G_SpM_FL 8717_flipTB.JPG,Tomato - Spider mites Two spotted spider mite,Tomato,Spider mites Two spotted spider mite,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Target_Spot\002213fb-b620-4593-b9ac-6a6cc119b100___Com.G_TgS_FL 8360.JPG,Tomato - Target Spot,Tomato,Target Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Target_Spot\003a5321-0430-42dd-a38d-30ac4563f4ba___Com.G_TgS_FL 8121.JPG,Tomato - Target Spot,Tomato,Target Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Target_Spot\003a5321-0430-42dd-a38d-30ac4563f4ba___Com.G_TgS_FL 8121_flipTB.JPG,Tomato - Target Spot,Tomato,Target Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Target_Spot\003a5321-0430-42dd-a38d-30ac4563f4ba___Com.G_TgS_FL 8121_new30degFlipLR.JPG,Tomato - Target Spot,Tomato,Target Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Target_Spot\0044d10f-7062-4655-8abd-9fffc5b2f152___Com.G_TgS_FL 7908.JPG,Tomato - Target Spot,Tomato,Target Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Target_Spot\007ec913-8cfe-43ed-b458-f041a17266ae___Com.G_TgS_FL 9844.JPG,Tomato - Target Spot,Tomato,Target Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Target_Spot\00854623-ba28-446d-a1d5-03c0ae3f99d9___Com.G_TgS_FL 7949.JPG,Tomato - Target Spot,Tomato,Target Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Target_Spot\0118c27a-f34a-41e1-8b2f-d2c564f83c5c___Com.G_TgS_FL 0013.JPG,Tomato - Target Spot,Tomato,Target Spot,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_mosaic_virus\000ec6ea-9063-4c33-8abe-d58ca8a88878___PSU_CG 2169.JPG,Tomato - Tomato mosaic virus,Tomato,Tomato mosaic virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_mosaic_virus\000ec6ea-9063-4c33-8abe-d58ca8a88878___PSU_CG 2169_180deg.JPG,Tomato - Tomato mosaic virus,Tomato,Tomato mosaic virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_mosaic_virus\000ec6ea-9063-4c33-8abe-d58ca8a88878___PSU_CG 2169_90deg.JPG,Tomato - Tomato mosaic virus,Tomato,Tomato mosaic virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_mosaic_virus\000ec6ea-9063-4c33-8abe-d58ca8a88878___PSU_CG 2169_new30degFlipLR.JPG,Tomato - Tomato mosaic virus,Tomato,Tomato mosaic virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_mosaic_virus\000ec6ea-9063-4c33-8abe-d58ca8a88878___PSU_CG 2169_newPixel25.JPG,Tomato - Tomato mosaic virus,Tomato,Tomato mosaic virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_mosaic_virus\006e354b-c054-4b72-a83c-e3feb038942e___PSU_CG 2330.JPG,Tomato - Tomato mosaic virus,Tomato,Tomato mosaic virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_mosaic_virus\006e354b-c054-4b72-a83c-e3feb038942e___PSU_CG 2330_180deg.JPG,Tomato - Tomato mosaic virus,Tomato,Tomato mosaic virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_mosaic_virus\006e354b-c054-4b72-a83c-e3feb038942e___PSU_CG 2330_270deg.JPG,Tomato - Tomato mosaic virus,Tomato,Tomato mosaic virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_Yellow_Leaf_Curl_Virus\013864a9-fc42-4357-8bfe-0d638ce2fc7f___YLCV_GCREC 2023.JPG,Tomato - Tomato Yellow Leaf Curl Virus,Tomato,Tomato Yellow Leaf Curl Virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_Yellow_Leaf_Curl_Virus\031014d0-92fb-40a7-87d0-f000697551ef___YLCV_NREC 2679.JPG,Tomato - Tomato Yellow Leaf Curl Virus,Tomato,Tomato Yellow Leaf Curl Virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_Yellow_Leaf_Curl_Virus\0353227e-e244-43de-824f-e71f17bc745b___YLCV_NREC 2789.JPG,Tomato - Tomato Yellow Leaf Curl Virus,Tomato,Tomato Yellow Leaf Curl Virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_Yellow_Leaf_Curl_Virus\036662aa-5a39-4e1a-adc7-32017654d0ef___YLCV_GCREC 2463.JPG,Tomato - Tomato Yellow Leaf Curl Virus,Tomato,Tomato Yellow Leaf Curl Virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_Yellow_Leaf_Curl_Virus\0402077e-1231-48b4-8aa6-3a9c492dc7e6___YLCV_GCREC 2163.JPG,Tomato - Tomato Yellow Leaf Curl Virus,Tomato,Tomato Yellow Leaf Curl Virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_Yellow_Leaf_Curl_Virus\04167585-5400-4bdb-b58b-c5e944a1ecd8___YLCV_NREC 0079.JPG,Tomato - Tomato Yellow Leaf Curl Virus,Tomato,Tomato Yellow Leaf Curl Virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_Yellow_Leaf_Curl_Virus\046273fc-2ab8-4fb0-abaa-bc43e28d5a7a___YLCV_NREC 2692.JPG,Tomato - Tomato Yellow Leaf Curl Virus,Tomato,Tomato Yellow Leaf Curl Virus,False
+C:\Users\srede\Documents\saveetha\Plant_Disease_Dataset\Tomato___Tomato_Yellow_Leaf_Curl_Virus\054013a2-1b8d-4ed8-82f1-1e90fae528ae___UF.GRC_YLCV_Lab 02676.JPG,Tomato - Tomato Yellow Leaf Curl Virus,Tomato,Tomato Yellow Leaf Curl Virus,False
